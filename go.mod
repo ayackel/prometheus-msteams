@@ -43,7 +43,7 @@ require (
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
 	gopkg.in/yaml.v2 v2.2.8
-	k8s.io/apimachinery v0.18.2 // indirect
+	k8s.io/apimachinery v0.18.8 // indirect
 	k8s.io/helm v2.16.6+incompatible
 )
 
